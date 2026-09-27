@@ -6,6 +6,8 @@ Mini-jeux web mobiles 9:16 et jeux TikTok Live interactifs.
 | --- | --- | --- |
 | [PUMP IT](games/pump-it/) | Solo mobile + TikTok Live | Gonfle. Encaisse. N'explose pas. |
 
+Trilogie en conception, **« Abysses »** (Le Pont Piégé, Le Siège des Titans, L'Épreuve du Néant) : voir la [bible artistique et technique](docs/bible/README.md).
+
 ## Démarrage
 
 ```bash

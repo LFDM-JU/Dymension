@@ -25,3 +25,9 @@ Ce dépôt produit des mini-jeux web mobiles et des jeux TikTok Live interactifs
 ```bash
 npm run typecheck && npm test && npm run build
 ```
+
+## Trilogie « Abysses » (Pont Piégé, Siège des Titans, Épreuve du Néant)
+La bible artistique et technique fait référence : `docs/bible/`. Le stickman, la tête-PFP (« Sceau »), la grille UI 9:16, le mixage et les mécaniques TikTok transverses sont définis une seule fois dans `docs/bible/README.md` ; chaque jeu s'y conforme. Le pont Live (`live-bridge/`) reste la source d'événements pour tous les runtimes (web ou Unreal).
+
+## Trilogie « Abysses » (Pont Piégé, Siège des Titans, Épreuve du Néant)
+La bible artistique et technique fait référence : `docs/bible/`. Le stickman, la tête-PFP (« Sceau »), la grille UI 9:16, le mixage et les mécaniques TikTok transverses sont définis une seule fois dans `docs/bible/README.md` ; chaque jeu s'y conforme. Le pont Live (`live-bridge/`) reste la source d'événements pour tous les runtimes (web ou Unreal).
